@@ -318,7 +318,9 @@
 }
 
 
-
+.fixmarg {
+    margin: 0px 0px 0px 0px !important;
+}
 
 
 
@@ -630,11 +632,11 @@ p{
     display: flex;
     justify-content: center;
     width: 100%;
-    margin: 10px;
+    margin: 0px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 50px;
-    padding: 45px 0px;
+    padding: 0px 0px;
 }
 
 .logof{
@@ -707,8 +709,8 @@ p{
     color: #ffc107;
 }
 .grupo-2{
-    padding: auto;
-    margin-bottom: 10rem;
+
+    padding: 50px;
     text-align: center;
     color: #a2aabc;
 }
