@@ -206,6 +206,22 @@
     background-color: #F5F5F5;
 }
 
+.logowidth {
+    width: 210px !important;
+}
+
+
+.fixingw {
+    width: 100% !important;
+    font-family: 'Inika', serif;
+    font-size: 20px;
+
+
+}
+
+.hoverbutton:hover {
+    color: #FDCD12 !important;
+}
 /*Aplicacion de media queries para el responsive del eslogan y el parrafo*/
 @media (min-width: 701px) {
     .tituloeslogan {
