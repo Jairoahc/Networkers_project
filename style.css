@@ -198,10 +198,6 @@
 
 
 /* Estilos de la pagina de inicio*/
-.contenedor-b{
-
-    width: 10%;
-}
 .backcolor {
     background-color: #F5F5F5;
 }
@@ -323,15 +319,6 @@
 
 
 
-.contenedor-items{
-
-    width: 90%;
-}
-
-.hover-link :hover{
-color: #FDCD12 !important ;
-
-}
 
 
 
