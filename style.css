@@ -820,7 +820,7 @@ p{
 }
 .grupo-2{
 
-    padding: 50px;
+    padding: 20px;
     text-align: center;
     color: #a2aabc;
 }
@@ -834,4 +834,381 @@ p{
         flex-direction: column;
         ;
     }   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======NETWORKERS-JOB===== */
+@media (min-width: 701px) {
+    .tituloesloganj {
+        font-family: 'Inika', serif;
+        color: #1A6DAF;
+        text-align: start;
+        font-size: 80px;
+        
+}
+
+
+}
+@media (max-width: 701px) {
+    .tituloesloganj {
+        font-family: 'Inika', serif;
+        color: #1A6DAF;
+        text-align: start;
+        font-size: 35px;
+}
+}
+
+.parrafocontainerj {
+    font-family: 'Inika', serif;
+    margin: 40px 60px 0px 70px;
+}
+
+@media (min-width: 701px) {
+    .parrafo1j {
+        font-family: 'Inika', serif;
+        text-align: start;
+        font-size: 20px;
+        font-weight: 700;
+    
+    }
+
+}
+
+@media (max-width: 701px) {
+    .parrafo1j {
+        font-family: 'Inika', serif;
+        text-align: start;
+        font-size: 14px;
+        font-weight: 700;
+    
+    }
+
+}
+.contenedor1j{
+    background-color: #7b52ab;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 40px 20px 40px 20px;
+    width: 90%;
+}
+.linepost{
+    font-family: 'Inika', serif;
+    margin-bottom: 20px;
+}
+.linepost2{
+    font-family: 'Inika', serif;
+    vertical-align: middle;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 300px;
+}
+.selectj{
+    font-family: 'Inika', serif;
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    text-align: center;    
+}
+p{
+    margin-bottom: 0px;
+}
+.inputj{
+    width: 100%;
+    border-radius: 7px;
+    border: none;
+    outline: none;
+}
+.btnraj {
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
+.container{
+
+    background-color: #7B52AB;
+}
+
+.header {
+    color: #1A6DAF;
+    font-size: 27px;
+    padding: 2px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
 }
